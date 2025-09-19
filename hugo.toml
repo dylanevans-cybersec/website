@@ -1,6 +1,6 @@
 baseURL = 'https://dylanevans-cybersec.github.io/website/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Dylan Evans - Cybersecurity'
 theme = 'terminal'
 [caches]
   [caches.images]
